@@ -4,11 +4,26 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: node_id8
+    100004: node_id8 1
+    100006: node_id8 2
     400000: //RootNode
+    400002: node_id8
+    400004: node_id8 1
+    400006: node_id8 2
     2300000: //RootNode
+    2300002: node_id8
+    2300004: node_id8 1
+    2300006: node_id8 2
     3300000: //RootNode
+    3300002: node_id8
+    3300004: node_id8 1
+    3300006: node_id8 2
     4300000: bunker-medium
     4300002: bunker_medium
+    4300004: node_id8
+    4300006: node_id8
+    4300008: node_id8
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
