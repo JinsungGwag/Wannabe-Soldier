@@ -41,4 +41,9 @@ public class MissionManager : MonoBehaviour
             }
         }
     }
+
+    // 업적 추가 및 데이터 저장
+    public void AddMission()
+    {
+    }
 }
