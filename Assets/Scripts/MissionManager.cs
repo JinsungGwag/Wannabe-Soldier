@@ -29,7 +29,7 @@ public class MissionManager : MonoBehaviour
 
         string category = categoryLabel.text;
 
-        foreach(MissionList.Mission mission in MissionList.missions)
+        foreach(Mission mission in MissionList.missions)
         {
             if(mission.category == category)
             {
