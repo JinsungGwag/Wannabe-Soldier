@@ -9,6 +9,8 @@ public class MissionManager : MonoBehaviour
     public GameObject missionContent;
     public Text categoryLabel;
 
+    public DataMananger dataManager;
+
     public void Start()
     {
         ChangeList();
@@ -27,9 +29,10 @@ public class MissionManager : MonoBehaviour
             }
         }
 
+        dataManager.LoadMission();
         string category = categoryLabel.text;
 
-        foreach(Mission mission in MissionList.missions)
+        foreach(Mission mission in dataManager.missionList)
         {
             if(mission.category == category)
             {
@@ -38,12 +41,9 @@ public class MissionManager : MonoBehaviour
                 rightMission.GetComponent<MissionComponent>().msPrice.text = mission.price + "";
                 rightMission.transform.parent = content.transform;
                 rightMission.transform.localScale = missionContent.transform.localScale;
+                rightMission.transform.localPosition = new Vector3(rightMission.transform.localPosition.x, rightMission.transform.localPosition.y, 0);
+                rightMission.transform.localRotation = new Quaternion(0, 0, 0, 0);
             }
         }
-    }
-
-    // 업적 추가 및 데이터 저장
-    public void AddMission()
-    {
     }
 }
