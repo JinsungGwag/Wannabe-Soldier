@@ -39,7 +39,7 @@ public class DataMananger : MonoBehaviour
     public void AddMission()
     {
         if (content.text == "" || price.text == "") return;
-        Mission mission = new Mission(category.text, content.text, int.Parse(price.text));
+        Mission mission = new Mission(category.text, content.text, int.Parse(price.text), false);
         missionList.Add(mission);
         
         string dataJson = JsonConvert.SerializeObject(missionList);
@@ -47,6 +47,16 @@ public class DataMananger : MonoBehaviour
             Directory.CreateDirectory(filePath);
         File.WriteAllText(filePath + "/UserMission.json", dataJson, Encoding.Unicode);
         addPanel.SetActive(false);
+        missionManager.ChangeList();
+    }
+
+    // 변경사항을 저장
+    public void SaveMission()
+    {
+        string dataJson = JsonConvert.SerializeObject(missionList);
+        if (!Directory.Exists(filePath))
+            Directory.CreateDirectory(filePath);
+        File.WriteAllText(filePath + "/UserMission.json", dataJson, Encoding.Unicode);
         missionManager.ChangeList();
     }
 }

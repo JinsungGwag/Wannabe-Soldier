@@ -37,8 +37,44 @@ public class MissionManager : MonoBehaviour
             if(mission.category == category)
             {
                 GameObject rightMission = Instantiate(missionContent);
-                rightMission.GetComponent<MissionComponent>().msName.text = mission.name;
-                rightMission.GetComponent<MissionComponent>().msPrice.text = mission.price + "";
+                MissionComponent msComponent = rightMission.GetComponent<MissionComponent>();
+                rightMission.GetComponentInChildren<CheckMission>().mission = mission;
+                msComponent.msName.text = mission.name;
+                msComponent.msPrice.text = mission.price + "";
+
+                // 카테고리 이미지 설정
+                switch(category)
+                {
+                    case "여행":
+                        msComponent.msCategory.sprite = msComponent.travel;
+                        break;
+
+                    case "휴가":
+                        msComponent.msCategory.sprite = msComponent.vacation;
+                        break;
+
+                    case "운동":
+                        msComponent.msCategory.sprite = msComponent.sport;
+                        break;
+
+                    case "공부":
+                        msComponent.msCategory.sprite = msComponent.study;
+                        break;
+
+                    case "기타":
+                        msComponent.msCategory.sprite = msComponent.etc;
+                        break;
+
+                    default:
+                        break;
+                }
+
+                // 업적 달성 여부 표시
+                if (mission.success)
+                    msComponent.msCheck.sprite = msComponent.success;
+                else
+                    msComponent.msCheck.sprite = msComponent.fail;
+
                 rightMission.transform.parent = content.transform;
                 rightMission.transform.localScale = missionContent.transform.localScale;
                 rightMission.transform.localPosition = new Vector3(rightMission.transform.localPosition.x, rightMission.transform.localPosition.y, 0);

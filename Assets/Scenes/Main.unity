@@ -4157,7 +4157,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 2411.8, y: 604.6}
+  m_SizeDelta: {x: 2412, y: 605}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &767123572
 MonoBehaviour:
@@ -4334,6 +4334,7 @@ GameObject:
   m_Component:
   - component: {fileID: 811938144}
   - component: {fileID: 811938145}
+  - component: {fileID: 811938146}
   m_Layer: 0
   m_Name: Complete
   m_TagString: Untagged
@@ -4401,7 +4402,32 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 678971881}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 811938146}
+        m_MethodName: Check
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &811938146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811938143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e175098a82c6c3c45adf47c9b61fe309, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  success: {fileID: 678971881}
+  dataManager: {fileID: 1655599373}
 --- !u!1 &834747090
 GameObject:
   m_ObjectHideFlags: 0
@@ -11045,6 +11071,15 @@ MonoBehaviour:
   msCategory: {fileID: 1556054975}
   msName: {fileID: 1381749747}
   msPrice: {fileID: 1132306496}
+  msSuccess: 0
+  msCheck: {fileID: 678971881}
+  travel: {fileID: 21300000, guid: 948cb32e73753474e98d6d7954a7e835, type: 3}
+  vacation: {fileID: 21300000, guid: 6c627ead960ffe34c98c098dbe215850, type: 3}
+  sport: {fileID: 21300000, guid: 19da3db10ee8a3d48b3a25db04aa83e9, type: 3}
+  study: {fileID: 21300000, guid: 4705f57b1a730ce49bd8e347a35ef1e9, type: 3}
+  etc: {fileID: 21300000, guid: ad2b4861e37b7cd42ae6f6392278fce6, type: 3}
+  success: {fileID: 21300000, guid: 702b3109c10e8f445945bb6926dd2e06, type: 3}
+  fail: {fileID: 21300000, guid: 9fd436fa284fe7b4ebcd39569f7dcf02, type: 3}
 --- !u!1001 &2094603071
 PrefabInstance:
   m_ObjectHideFlags: 0
