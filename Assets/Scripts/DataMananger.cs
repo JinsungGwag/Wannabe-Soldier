@@ -4,11 +4,13 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class DataMananger : MonoBehaviour
 {
     private string filePath;
+    private string removeName = null;
 
     public Text category;
     public Text content;
@@ -23,6 +25,11 @@ public class DataMananger : MonoBehaviour
     {
         filePath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Mission" : Application.streamingAssetsPath + "/Mission";
         LoadMission();
+    }
+
+    public void ChangeName()
+    {
+        removeName = EventSystem.current.currentSelectedGameObject.transform.parent.GetComponent<MissionComponent>().msName.text;
     }
 
     public void LoadMission()
@@ -41,13 +48,26 @@ public class DataMananger : MonoBehaviour
         if (content.text == "" || price.text == "") return;
         Mission mission = new Mission(category.text, content.text, int.Parse(price.text), false);
         missionList.Add(mission);
-        
-        string dataJson = JsonConvert.SerializeObject(missionList);
-        if (!Directory.Exists(filePath))
-            Directory.CreateDirectory(filePath);
-        File.WriteAllText(filePath + "/UserMission.json", dataJson, Encoding.Unicode);
+
+        SaveMission();
         addPanel.SetActive(false);
-        missionManager.ChangeList();
+    }
+
+    // 지정한 업적 삭제
+    public void RemoveMission()
+    {
+        if (removeName == null) return;
+
+        foreach(Mission mission in missionList)
+        {
+            if (mission.name == removeName)
+            {
+                missionList.Remove(mission);
+                break;
+            }
+        }
+
+        SaveMission();
     }
 
     // 변경사항을 저장
