@@ -9,13 +9,21 @@ using UnityEngine.UI;
 
 public class DataMananger : MonoBehaviour
 {
-    private string filePath;
+    private string informationPath;
+    private string missionPath;
     private string removeName = null;
+
+    // 사용자 정보
+    private int userLevel;
+    private string userName;
+    private string userRank;
+    private float userValue; 
 
     public Text category;
     public Text content;
     public Text price;
 
+    public Panel removePanel;
     public GameObject addPanel;
     public MissionManager missionManager;
 
@@ -23,10 +31,30 @@ public class DataMananger : MonoBehaviour
 
     void Start()
     {
-        filePath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Mission" : Application.streamingAssetsPath + "/Mission";
+        informationPath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Information" : Application.streamingAssetsPath + "/Information";
+        missionPath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Mission" : Application.streamingAssetsPath + "/Mission";
         LoadMission();
     }
 
+    // 사용자 정보 불러오기
+    public bool LoadInformation()
+    {
+        if (!Directory.Exists(informationPath)) return false;
+        if (!File.Exists(informationPath + "/UserInformation.json")) return false;
+
+        // 저장된 정보가 있을 경우 불러옴
+        string dataJson = File.ReadAllText(informationPath + "/UserInformation.json", Encoding.Unicode);
+        Information userInfo = JsonConvert.DeserializeObject<Information>(dataJson);
+
+        userLevel = userInfo.level;
+        userName = userInfo.name;
+        userRank = userInfo.rank;
+        userValue = userInfo.value;
+
+        return true;
+    }
+
+    // 삭제할 업적 이름 기억
     public void ChangeName()
     {
         removeName = EventSystem.current.currentSelectedGameObject.transform.parent.GetComponent<MissionComponent>().msName.text;
@@ -34,11 +62,11 @@ public class DataMananger : MonoBehaviour
 
     public void LoadMission()
     {
-        if (!Directory.Exists(filePath)) return;
-        if (!File.Exists(filePath + "/UserMission.json")) return;
+        if (!Directory.Exists(missionPath)) return;
+        if (!File.Exists(missionPath + "/UserMission.json")) return;
 
         // 저장된 업적이 있을 경우 불러옴
-        string dataJson = File.ReadAllText(filePath + "/UserMission.json", Encoding.Unicode);
+        string dataJson = File.ReadAllText(missionPath + "/UserMission.json", Encoding.Unicode);
         missionList = JsonConvert.DeserializeObject<List<Mission>>(dataJson);
     }
 
@@ -52,13 +80,34 @@ public class DataMananger : MonoBehaviour
         SaveMission();
         addPanel.SetActive(false);
     }
-
-    // 지정한 업적 삭제
-    public void RemoveMission()
+    
+    public void OpenRemovePanel()
     {
         if (removeName == null) return;
 
-        foreach(Mission mission in missionList)
+        // 해당 업적이 존재하는지 확인
+        bool check = false;
+        foreach (Mission mission in missionList)
+        {
+            if (mission.name == removeName)
+            {
+                check = true;
+                break;
+            }
+        }
+        if (!check) return;
+
+        // 제거 확인창 생성
+        removePanel.title.text = "업적제거";
+        removePanel.content.text = "<" + removeName + ">\n업적을 제거하시겠습니까?";
+        removePanel.Open();
+        removePanel.SetCallback(RemoveMission);
+    }
+    
+    // 업적 제거
+    public void RemoveMission()
+    {
+        foreach (Mission mission in missionList)
         {
             if (mission.name == removeName)
             {
@@ -74,9 +123,9 @@ public class DataMananger : MonoBehaviour
     public void SaveMission()
     {
         string dataJson = JsonConvert.SerializeObject(missionList);
-        if (!Directory.Exists(filePath))
-            Directory.CreateDirectory(filePath);
-        File.WriteAllText(filePath + "/UserMission.json", dataJson, Encoding.Unicode);
+        if (!Directory.Exists(missionPath))
+            Directory.CreateDirectory(missionPath);
+        File.WriteAllText(missionPath + "/UserMission.json", dataJson, Encoding.Unicode);
         missionManager.ChangeList();
     }
 }
