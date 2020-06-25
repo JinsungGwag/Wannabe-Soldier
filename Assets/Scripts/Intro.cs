@@ -22,7 +22,7 @@ public class Intro : MonoBehaviour
         if (dataMananger.LoadInformation())
             next = "Main";
         else
-            next = "Main";
+            next = "Profile";
     }
 
     IEnumerator FadeIn()

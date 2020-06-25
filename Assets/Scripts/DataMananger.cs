@@ -14,10 +14,7 @@ public class DataMananger : MonoBehaviour
     private string removeName = null;
 
     // 사용자 정보
-    private int userLevel;
-    private string userName;
-    private string userRank;
-    private float userValue; 
+    public Information userInfo;
 
     public Text category;
     public Text content;
@@ -34,6 +31,7 @@ public class DataMananger : MonoBehaviour
         informationPath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Information" : Application.streamingAssetsPath + "/Information";
         missionPath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Mission" : Application.streamingAssetsPath + "/Mission";
         LoadMission();
+        LoadInformation();
     }
 
     // 사용자 정보 불러오기
@@ -44,14 +42,24 @@ public class DataMananger : MonoBehaviour
 
         // 저장된 정보가 있을 경우 불러옴
         string dataJson = File.ReadAllText(informationPath + "/UserInformation.json", Encoding.Unicode);
-        Information userInfo = JsonConvert.DeserializeObject<Information>(dataJson);
-
-        userLevel = userInfo.level;
-        userName = userInfo.name;
-        userRank = userInfo.rank;
-        userValue = userInfo.value;
-
+        userInfo = JsonConvert.DeserializeObject<Information>(dataJson);
+        
         return true;
+    }
+
+    public void SetInformation(string name, string rank, int inYear, int inMonth, int inDay, int outYear, int outMonth, int outDay)
+    {
+        userInfo = new Information(name, rank, inYear, inMonth, inDay, outYear, outMonth, outDay);
+        SaveInformation();
+    }
+
+    // 사용자 정보 저장하기
+    public void SaveInformation()
+    {
+        string dataJson = JsonConvert.SerializeObject(userInfo);
+        if (!Directory.Exists(informationPath))
+            Directory.CreateDirectory(informationPath);
+        File.WriteAllText(informationPath + "/UserInformation.json", dataJson, Encoding.Unicode);
     }
 
     // 삭제할 업적 이름 기억

@@ -49,5 +49,7 @@ public class Calendar : MonoBehaviour
             for (int i = 1; i <= 30; i++)
                 day.options.Add(new Dropdown.OptionData(i + ""));
         }
+
+        day.captionText.text = day.options[0].text;
     }
 }

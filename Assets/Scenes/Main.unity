@@ -2206,7 +2206,7 @@ GameObject:
   - component: {fileID: 437004220}
   - component: {fileID: 437004219}
   m_Layer: 0
-  m_Name: Class
+  m_Name: Rank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9007,10 +9007,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 885d37741305516428d3ae75ac5d23ed, type: 3}
-  m_Type: 0
+  m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
-  m_FillMethod: 4
+  m_FillMethod: 0
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
@@ -10179,6 +10179,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1655599372}
   - component: {fileID: 1655599373}
+  - component: {fileID: 1655599374}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -10218,6 +10219,23 @@ MonoBehaviour:
   removePanel: {fileID: 1596546862}
   addPanel: {fileID: 298741294}
   missionManager: {fileID: 193541239}
+--- !u!114 &1655599374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655599371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da6ac418e410c23478b3fb58864b862f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataManager: {fileID: 1655599373}
+  levelTxt: {fileID: 684268254}
+  nameTxt: {fileID: 1752480290}
+  rankTxt: {fileID: 437004219}
+  valueTxt: {fileID: 1516560849}
 --- !u!1 &1657451005
 GameObject:
   m_ObjectHideFlags: 0
