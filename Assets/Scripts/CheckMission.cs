@@ -9,6 +9,7 @@ public class CheckMission : MonoBehaviour
     public DataMananger dataManager;
     public Mission mission;
     public Panel checkPanel;
+    public Animator clear;
     
     private MissionComponent msComponent;
 
@@ -33,6 +34,7 @@ public class CheckMission : MonoBehaviour
     public void Success()
     {
         mission.success = !mission.success;
+        clear.SetTrigger("Clear");
         dataManager.SaveMission();
     }
 }
