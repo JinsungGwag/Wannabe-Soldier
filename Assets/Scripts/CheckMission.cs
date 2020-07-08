@@ -7,6 +7,7 @@ public class CheckMission : MonoBehaviour
 {
     public Image success;
     public DataMananger dataManager;
+    public UIManager uiManager;
     public Mission mission;
     public Panel checkPanel;
     public Animator clear;
@@ -35,6 +36,25 @@ public class CheckMission : MonoBehaviour
     {
         mission.success = !mission.success;
         clear.SetTrigger("Clear");
+
+        // 유저 경험치 상승
+        float full = dataManager.userInfo.level * 20 + 100;
+        float current = dataManager.userInfo.value;
+        dataManager.userInfo.value = (current * full + mission.price) / full;
+        
+        // 레벨업을 했을 경우
+        if(dataManager.userInfo.value >= 1)
+        {
+            dataManager.userInfo.level++;
+            dataManager.userInfo.value -= 1;
+        }
+
+        // UI 스텟에 반영
+        uiManager.levelTxt.text = "LV " + dataManager.userInfo.level;
+        uiManager.valueImg.fillAmount = dataManager.userInfo.value;
+        uiManager.valueTxt.text = (int)(dataManager.userInfo.value * 100) + "%";
+
+        dataManager.SaveInformation();
         dataManager.SaveMission();
     }
 }

@@ -6,7 +6,7 @@ public class Information
 {
     public Information(string name, string rank, int inYear, int inMonth, int inDay, int outYear, int outMonth, int outDay)
     {
-        level = 0;
+        level = 1;
         value = 0;
         this.name = name;
         this.rank = rank;
