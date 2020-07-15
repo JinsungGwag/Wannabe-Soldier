@@ -15,7 +15,7 @@ public class DataMananger : MonoBehaviour
 
     // 사용자 정보
     public Information userInfo;
-
+    
     public Text category;
     public Text content;
     public Text price;
@@ -25,6 +25,7 @@ public class DataMananger : MonoBehaviour
     public MissionManager missionManager;
 
     public List<Mission> missionList = new List<Mission>();
+    public List<SaleEvent> saleList = new List<SaleEvent>();
 
     void Start()
     {
@@ -32,6 +33,7 @@ public class DataMananger : MonoBehaviour
         missionPath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Mission" : Application.streamingAssetsPath + "/Mission";
         LoadMission();
         LoadInformation();
+        LoadSale();
     }
 
     // 사용자 정보 불러오기
@@ -45,6 +47,14 @@ public class DataMananger : MonoBehaviour
         userInfo = JsonConvert.DeserializeObject<Information>(dataJson);
         
         return true;
+    }
+
+    // 할인 정보 불러오기
+    public void LoadSale()
+    {
+        TextAsset textAsset = Resources.Load("sale") as TextAsset;
+        string dataJson = Encoding.UTF8.GetString(textAsset.bytes);
+        saleList = JsonConvert.DeserializeObject<List<SaleEvent>>(dataJson);
     }
 
     public void SetInformation(string name, string rank, int inYear, int inMonth, int inDay, int outYear, int outMonth, int outDay)

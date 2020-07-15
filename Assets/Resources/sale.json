@@ -1,0 +1,2266 @@
+[
+  {
+    "location": "서울 중구 정동",
+    "facility": "점프전용극장",
+    "sale": "50%할인",
+    "number": "02-722-3995",
+    "site": "www.hijump.co.,kr",
+    "explain": "- 본인 포함 4명까지 할인 가능- 기관신분증 혹은 재직증명서- VIP석:60,000을 30,000으로 할인- R석:50,000을 25,000으로 할인- S석:40,000을 20,000으로 할인- 공연 시간 : 월 20:00 / 화~토 16:00, 20:00 / 일, 공휴일 15:00, 18:00- 예약 방법 : 점프 콜센터로 관람희망일 최소 1일 전 PM 05:00 까지 전화 예약- 공연 장소 : 서울 중구 정동 22 경향아트힐 1층 점프전용극장 (5호선 서대문역 5번 출구)- 주의사항: 이벤트 관계상 취소나 변경은 관람일 1일전 PM 05:00 까지 가능함을 알려드립니다. 수량은 선착순 마감인 관계로 조기 매진 될 수 있는 점 양해 부탁 드립니다."
+  },
+  {
+    "location": "서울 중구 장충동2가",
+    "facility": "국립중앙극장",
+    "sale": "30%할인",
+    "number": "02-2280-4114",
+    "site": "-",
+    "explain": "- 할인대상 : 국군장병 및 국방부 직원(본인 및 동반 1인까지 가능)- 할 인 율 : 30%- 대상공연 : 국립극장 전속단체(국립창극단, 국립무용단, 국립국악관현악단) 제작공연, 단 대관공연, 공동주최, 극장기획공연은 제외- 적용방안 : 전화예매 후 공연당일 매표소에서 국군장병 확인 가능, 신분증 또는 공무원증 제시 후 티켓 수령- 예 매 처 : 02-2280-41146(전화예매만 가능)"
+  },
+  {
+    "location": "전국",
+    "facility": "롯데시네마",
+    "sale": "진짜사나이 힐링 프로젝트-시즌3",
+    "number": "1544-8855",
+    "site": "www.lottecinema.co.kr",
+    "explain": "-롯데시네마 영화 6,000원 관람(동반 3인까지 할인 가능) -리얼디(3D)영화 10,000원 관람(동반 3인까지 할인 가능)-매점 콤보 SET 2,000원 할인(본인에 한해 적용)- 대상: 1)국방부장관이 발행한 공무원증 소지자, 2)각 군 사관생도, 휴가증 소지 장병, 3)방위사업청, 국방과학연구소 직원, 4)2015년 훈련을 마친 예비군(육/해/공군)- 행사 영화관 : 전국 롯데시네마- 일부영화관 제외(브로드웨이, 여수 등)"
+  },
+  {
+    "location": "강원도 춘천시",
+    "facility": "엘리시안 강촌리조트",
+    "sale": "스키시즌권 할인 판매",
+    "number": "033-260-2000",
+    "site": "www.welfare.mil.kr",
+    "explain": "-이용대상 : 현역병(전역예정자포함),하사이상현역군인, 군무원, 19년6월 이상 복무후 전역한 군인 / 직계가족(4인이내)기타(복지단근무원,국방부공무원,KIDA,ADD,국방홍보원,국립서울현충원,전쟁기념사업회) 본인-가격 : 전일권 대인 20만원, 소인 16만원-시즌권현지수령(우편수령X) 지참서류 : 군인/군무원/공무원:공무원증 또는 복무확인서/재직증명서(해부대발행,3개월내)와본인 신분증 함께 제시(군출입증 불가)예비역(19.6년이상복무후 전역) : 군인연금카드 직계가족 : 해당신분증(공무원증또는복무확인서/재직증명서)중1개와건강보험증/주민등록등본/가족관계증명서중1개서류, 본인신분증(주민등록증또는운전면허증)지참 복지단근무원, KIDA, ADD, 전쟁기념사업회   : 복무확인서/재직증명서  주민등록증/운전면허증"
+  },
+  {
+    "location": "경남 거제",
+    "facility": "거제씨월드",
+    "sale": "이용권",
+    "number": "055-682-0330",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "현장할인"
+  },
+  {
+    "location": "강원도 춘천",
+    "facility": "엘리시안강촌",
+    "sale": "리프트 렌탈",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰/현장할인"
+  },
+  {
+    "location": "강원도 평창",
+    "facility": "보광휘닉스파크",
+    "sale": "리프트 렌탈",
+    "number": "02-527-9637",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "유선예약,쿠폰출력"
+  },
+  {
+    "location": "전국",
+    "facility": "롯데렌터카",
+    "sale": "단기렌터카",
+    "number": "1588-1230",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰 예약"
+  },
+  {
+    "location": "인천 영종도",
+    "facility": "영종스카이리조트",
+    "sale": "객실 패키지",
+    "number": "032-745-9000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "유선예약"
+  },
+  {
+    "location": "강원도 춘천",
+    "facility": "엘리시안강촌",
+    "sale": "객실",
+    "number": "033-260-2000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "유선예약"
+  },
+  {
+    "location": "강원도 정선",
+    "facility": "하이원리조트",
+    "sale": "호텔 및 콘도객실",
+    "number": "1588-7789",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰 예약"
+  },
+  {
+    "location": "경기도 포천",
+    "facility": "베어스타운",
+    "sale": "객실,리프트,렌탈",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰 구입"
+  },
+  {
+    "location": "강원도 원주",
+    "facility": "오크밸리",
+    "sale": "콘도객실",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰 구입"
+  },
+  {
+    "location": "경남 거제",
+    "facility": "거제씨앤스카이",
+    "sale": "팬션객실",
+    "number": "055-682-0102",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "유선예약"
+  },
+  {
+    "location": "경기도 일산",
+    "facility": "원마운트",
+    "sale": "이용권",
+    "number": "02-2225-6375",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰 구입"
+  },
+  {
+    "location": "충남 아산",
+    "facility": "금호아산스파비스",
+    "sale": "이용권",
+    "number": "041-539-2013",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰 구입"
+  },
+  {
+    "location": "충남 도고",
+    "facility": "파라다이스도고스파",
+    "sale": "이용권",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰 구입"
+  },
+  {
+    "location": "경기도 용인",
+    "facility": "양지 파인리조트",
+    "sale": "리프트권",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "폐쇄몰 구입"
+  },
+  {
+    "location": "강원도 평창",
+    "facility": "켄싱턴 플로라호텔",
+    "sale": "객실 패키지",
+    "number": "02-583-7164",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "유선예약(전화 02-583-7164로 잔여객실 확인 후 예약)"
+  },
+  {
+    "location": "전북",
+    "facility": "무주덕유산",
+    "sale": "객실할인",
+    "number": "063-320-7830",
+    "site": "http://deogyu.knps.or.kr",
+    "explain": "20%"
+  },
+  {
+    "location": "전국",
+    "facility": "제주항공운임",
+    "sale": "티켓할인",
+    "number": "02-3419-4624",
+    "site": "www.jejuair.com",
+    "explain": "7~11%"
+  },
+  {
+    "location": "전국",
+    "facility": "롯데렌터카",
+    "sale": "이용할인",
+    "number": "1588-1230",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "20~70%"
+  },
+  {
+    "location": "경기",
+    "facility": "밀리토피아호텔",
+    "sale": "객실할인",
+    "number": "031-927-9320",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "5만원"
+  },
+  {
+    "location": "강원",
+    "facility": "켄싱턴플로라호텔",
+    "sale": "객실할인",
+    "number": "02-583-7164",
+    "site": "",
+    "explain": "특별가"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운",
+    "sale": "객실할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운수영장",
+    "sale": "티켓할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": ""
+  },
+  {
+    "location": "경남",
+    "facility": "거제씨앤스카이",
+    "sale": "객실할인",
+    "number": "055-682-0102",
+    "site": "www.seansky.co.kr",
+    "explain": "30~40%"
+  },
+  {
+    "location": "전국",
+    "facility": "CGV",
+    "sale": "티켓할인",
+    "number": "02-748-6600",
+    "site": "www.cgv.co.kr",
+    "explain": "2D 6천원 동반3인"
+  },
+  {
+    "location": "경기",
+    "facility": "에버랜드",
+    "sale": "무료이용",
+    "number": "02-748-6600",
+    "site": "www.everland.com",
+    "explain": "본인무료"
+  },
+  {
+    "location": "전국",
+    "facility": "빕스",
+    "sale": "이용할인",
+    "number": "02-748-6611",
+    "site": "http://ivips.co.kr",
+    "explain": "40%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운골프",
+    "sale": "티켓할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": ""
+  },
+  {
+    "location": "충남",
+    "facility": "도고파라다이스",
+    "sale": "티켓할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "서울",
+    "facility": "국립중앙극장",
+    "sale": "공연티켓할인",
+    "number": "02-2280-4114",
+    "site": "http://www.ntok.go.kr",
+    "explain": "30%"
+  },
+  {
+    "location": "전국",
+    "facility": "프로농구관람",
+    "sale": "무료입장",
+    "number": "02-748-6600",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "본인무료"
+  },
+  {
+    "location": "전국",
+    "facility": "프로축구관람",
+    "sale": "무료입장",
+    "number": "02-748-6600",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "본인동반1인무료"
+  },
+  {
+    "location": "경남",
+    "facility": "거제씨월드",
+    "sale": "티켓할인",
+    "number": "055-682-0330",
+    "site": "http://www.geojeseaworld.com",
+    "explain": "15~20%할인"
+  },
+  {
+    "location": "부산",
+    "facility": "부산아쿠아리움",
+    "sale": "이용할인",
+    "number": "051-740-1700",
+    "site": "http://www.busanaquarium.com",
+    "explain": "30%"
+  },
+  {
+    "location": "전국",
+    "facility": "한화아쿠아플라넷",
+    "sale": "티켓할인",
+    "number": "02-810-6375",
+    "site": "http://www.aquaplanet.co.kr",
+    "explain": "45%"
+  },
+  {
+    "location": "제주",
+    "facility": "한화제주골프장",
+    "sale": "이용할인",
+    "number": "064-727-9000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "40%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운객실",
+    "sale": "티켓할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": ""
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안강촌",
+    "sale": "객실할인",
+    "number": "033-260-2000",
+    "site": "http://www.elysian.co.kr",
+    "explain": "50~70%"
+  },
+  {
+    "location": "인천",
+    "facility": "영종스카이리조트",
+    "sale": "객실할인",
+    "number": "032-745-9000",
+    "site": "www.yjskyresort.com",
+    "explain": "30~50%"
+  },
+  {
+    "location": "충남",
+    "facility": "아산스파비스",
+    "sale": "이용권 할인",
+    "number": "041-539-2000",
+    "site": "https://www.spavis.co.kr",
+    "explain": "유효기간 2017.06.30.까지"
+  },
+  {
+    "location": "경기",
+    "facility": "유수마리나 요트",
+    "sale": "이용할인",
+    "number": "070-7861-8308",
+    "site": "www.eusummarina.com",
+    "explain": "요트이용권할인 20~45%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 스키시즌권",
+    "sale": "티켓할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "대인 전일 31만원"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 스키시즌권",
+    "sale": "티켓할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "대인 전일 38만원"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 피크아일랜드",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "69%"
+  },
+  {
+    "location": "전국",
+    "facility": "현대호텔(목포,울산,경주,강릉)",
+    "sale": "이용할인",
+    "number": "052-251-2233",
+    "site": "www.hyundaihotel.com",
+    "explain": "20~50%"
+  },
+  {
+    "location": "경주",
+    "facility": "코오롱호텔(경주)",
+    "sale": "이용할인",
+    "number": "1600-8668",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "20~50%"
+  },
+  {
+    "location": "부산",
+    "facility": "코오롱 시클라우드(부산)",
+    "sale": "이용할인",
+    "number": "1600-8668",
+    "site": "www.seacloudhotel.com",
+    "explain": "20~50%"
+  },
+  {
+    "location": "경주",
+    "facility": "코오롱 마우나오션리조트",
+    "sale": "이용할인",
+    "number": "1600-8668",
+    "site": "www.mauna.co.kr",
+    "explain": "20~50%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 객실",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "20~50%"
+  },
+  {
+    "location": "충남",
+    "facility": "서산수리조트 객실",
+    "sale": "이용할인",
+    "number": "041-689-7777",
+    "site": "https://seosansoo.com",
+    "explain": "20~50%"
+  },
+  {
+    "location": "부산",
+    "facility": "에어부산",
+    "sale": "이용할인",
+    "number": "1666-3060",
+    "site": "www.airbusan.com",
+    "explain": "4~15%"
+  },
+  {
+    "location": "전국",
+    "facility": "JDX멀티스포츠",
+    "sale": "이용할인",
+    "number": "02-810-6216",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50~60%"
+  },
+  {
+    "location": "경남",
+    "facility": "롯데워터파크",
+    "sale": "이용할인",
+    "number": "02-810-6375",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "77%(10월 한달)"
+  },
+  {
+    "location": "서울",
+    "facility": "롯데월드 10월 호국보훈 행사",
+    "sale": "이용할인",
+    "number": "02-748-6611",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "경기",
+    "facility": "에버랜드 자유이용권",
+    "sale": "이용할인",
+    "number": "02-748-6611",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "휴가장병, 군무원 본인 무료"
+  },
+  {
+    "location": "경기",
+    "facility": "호텔 더숨 포레스트",
+    "sale": "이용할인",
+    "number": "1522-2777",
+    "site": "www.hotelthesoom.com",
+    "explain": "20%"
+  },
+  {
+    "location": "경기",
+    "facility": "피크아일랜드 워터파크(동계)",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "69%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 동계 객실",
+    "sale": "객실할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "34~74%"
+  },
+  {
+    "location": "충남",
+    "facility": "파라다이스 도고 스파",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "53%"
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안 강촌 동계 리프트",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 리프트권",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "40~71%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 리프트권",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 동계 객실",
+    "sale": "객실할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65%"
+  },
+  {
+    "location": "경기",
+    "facility": "양지 파인리조트 리프트권",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "62~64%"
+  },
+  {
+    "location": "제주",
+    "facility": "금호 제주리조트 관광지 입장권",
+    "sale": "이용할인",
+    "number": "02-810-6375",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "92%(4인 SET 만 제공)"
+  },
+  {
+    "location": "경기",
+    "facility": "어메이징파크 자유이용권",
+    "sale": "이용할인",
+    "number": "070-7867-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59~64%"
+  },
+  {
+    "location": "강원",
+    "facility": "해피아워크루즈 유람선",
+    "sale": "이용할인",
+    "number": "1899-3393",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "20~23%"
+  },
+  {
+    "location": "경남",
+    "facility": "거제 씨월드",
+    "sale": "이용할인",
+    "number": "055-682-0330",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "10~25%"
+  },
+  {
+    "location": "경남",
+    "facility": "거제 삼성호텔",
+    "sale": "이용할인",
+    "number": "055-631-2114",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "53~62%"
+  },
+  {
+    "location": "강원",
+    "facility": "아이파크콘도",
+    "sale": "이용할인",
+    "number": "02-558-4373",
+    "site": "www.i-parkconda.co.kr",
+    "explain": "평균25%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 겨울 패키지(객실조식_롯데월드 자유이용권)",
+    "sale": "객실, 이용할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "패키지 가격"
+  },
+  {
+    "location": "경남",
+    "facility": "거제 씨앤스카이리조트",
+    "sale": "객실할인",
+    "number": "055-682-0102",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "10~57%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 봄 객실",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 한식뷔페 프로모션",
+    "sale": "이용할인",
+    "number": "02-3705-9141",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "14.5~16.6%"
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안 강촌 퍼블릭골프장",
+    "sale": "이용할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "44~50%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 블루밍 패키지",
+    "sale": "객실할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "52.2~62.1%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 객실",
+    "sale": "객실할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "53~79%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 피크아일랜드",
+    "sale": "이용할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "69%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 객실",
+    "sale": "객실할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 퍼블릭/골프연습장",
+    "sale": "이용할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~50%"
+  },
+  {
+    "location": "전국",
+    "facility": "한화 아쿠아플라넷",
+    "sale": "티켓할인",
+    "number": "1661-1063",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "22~45%"
+  },
+  {
+    "location": "충남",
+    "facility": "파라다이스 도고 스파",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "53%"
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안 강촌 객실",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "42~65%"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 워터파크/스노우파크",
+    "sale": "티켓할인",
+    "number": "02-2225-6375",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "66%"
+  },
+  {
+    "location": "충남",
+    "facility": "아산스파비스 온천테마파크",
+    "sale": "티켓할인",
+    "number": "041-539-2000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "특판이용권 17,000원"
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안 강촌 수영장 할인",
+    "sale": "티켓할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "39~41%"
+  },
+  {
+    "location": "강원",
+    "facility": "아이파크콘도 6월 요금",
+    "sale": "객실할인",
+    "number": "02-2016-4533",
+    "site": "www.i-parkconda.co.kr",
+    "explain": "평균25%"
+  },
+  {
+    "location": "강원",
+    "facility": "아이파크콘도 프로모션",
+    "sale": "이용할인",
+    "number": "02-2016-4533",
+    "site": "www.i-parkconda.co.kr",
+    "explain": ""
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 6월 객실프로모션",
+    "sale": "이용할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": ""
+  },
+  {
+    "location": "경북",
+    "facility": "경주코오롱호텔",
+    "sale": "객실할인",
+    "number": "1600-8668",
+    "site": "www.kolonhotel.co.kr",
+    "explain": "40.6~70.8%"
+  },
+  {
+    "location": "경북",
+    "facility": "마우나리조트",
+    "sale": "객실할인",
+    "number": "1600-8668",
+    "site": "www.mauna.co.kr",
+    "explain": "30~71.2%"
+  },
+  {
+    "location": "부산",
+    "facility": "씨클라우드 호텔",
+    "sale": "객실할인",
+    "number": "051-933-1000",
+    "site": "http://www.seacloudhotel.com",
+    "explain": "39.5~74.3%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 피크아일랜드(7~8월)",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 객실(7~8월)",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "26~69%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 하계 객실",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "28~65%"
+  },
+  {
+    "location": "강원",
+    "facility": "하이원리조트 객실",
+    "sale": "객실할인",
+    "number": "02-6196-4230",
+    "site": "http://www.high1.co.kr",
+    "explain": "33~80%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 섬머 패키지(7~8월)",
+    "sale": "이용할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": ""
+  },
+  {
+    "location": "경기",
+    "facility": "양지파인리조트 아쿠아펀 수영장",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "68%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 스키시즌권",
+    "sale": "티켓할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "39~63%"
+  },
+  {
+    "location": "강원",
+    "facility": "웰리힐리 스키시즌권",
+    "sale": "티켓할인",
+    "number": "02-3467-0238",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "54~64%"
+  },
+  {
+    "location": "강원",
+    "facility": "아아파크콘도 9~10월",
+    "sale": "객실할인",
+    "number": "02-2016-4533",
+    "site": "www.i-parkconda.co.kr",
+    "explain": "58~84%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 스키시즌권",
+    "sale": "티켓할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "9%(소셜정상가 대비)"
+  },
+  {
+    "location": "전북",
+    "facility": "무주리조트 스키시즌권",
+    "sale": "티켓할인",
+    "number": "063-320-7787",
+    "site": "https://www.mdysresort.com",
+    "explain": "30~50%"
+  },
+  {
+    "location": "경기",
+    "facility": "양지 파인리조트 객실",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": ""
+  },
+  {
+    "location": "전국",
+    "facility": "롯데시네마",
+    "sale": "요금할인",
+    "number": "02-748-6611",
+    "site": "https://www.welfare.mil.kr",
+    "explain": ""
+  },
+  {
+    "location": "전국",
+    "facility": "진에어항공",
+    "sale": "요금할인",
+    "number": "02-3419-7553",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "10%"
+  },
+  {
+    "location": "제주",
+    "facility": "제주렌트카",
+    "sale": "요금할인",
+    "number": "1588-3301",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~85%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔",
+    "sale": "객실할인",
+    "number": "02-3705-9115",
+    "site": "https://www.sejong.co.kr",
+    "explain": "64~69%"
+  },
+  {
+    "location": "서울",
+    "facility": "63레스토랑",
+    "sale": "요금할인",
+    "number": "02-789-5608",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "20%"
+  },
+  {
+    "location": "전국",
+    "facility": "금호아시아나 국내선 할인",
+    "sale": "요금할인",
+    "number": "02-725-5400",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "10%"
+  },
+  {
+    "location": "충남",
+    "facility": "파라다이스 도고 스파",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "충남",
+    "facility": "아산스파비스 온천테마파크",
+    "sale": "티켓할인",
+    "number": "041-539-2000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "61%"
+  },
+  {
+    "location": "강원",
+    "facility": "아이파크콘도 11~12월",
+    "sale": "객실할인",
+    "number": "02-2016-4533",
+    "site": "www.i-parkconda.co.kr",
+    "explain": "65~84%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 스키시즌권 2차",
+    "sale": "티켓할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~53%"
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안 강촌 객실",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "33~61%"
+  },
+  {
+    "location": "강원",
+    "facility": "하이원리조트 객실",
+    "sale": "객실할인",
+    "number": "02-6196-4230",
+    "site": "http://www.high1.co.kr",
+    "explain": "10~81%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 12~3월 객실",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59~64%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 동계 리프트",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 코코몽 눈썰매장",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "경남",
+    "facility": "진주 라온스테이 호텔",
+    "sale": "객실할인",
+    "number": "055-760-9000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "52~61%"
+  },
+  {
+    "location": "부산",
+    "facility": "SEA LIFE 부산 아쿠아리움",
+    "sale": "이용할인",
+    "number": "051-740-1700",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "40%"
+  },
+  {
+    "location": "서울",
+    "facility": "코엑스 아쿠아리움",
+    "sale": "이용할인",
+    "number": "02-6002-6214",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~50%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 객실(12~3월)",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "17~76%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리죄트 피크아일랜드(12~3월)",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리죄트 리프트권(11~3월)",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "32~49%"
+  },
+  {
+    "location": "충남",
+    "facility": "아산스파비스",
+    "sale": "이용권 할인",
+    "number": "041-539-2000",
+    "site": "https://www.spavis.co.kr",
+    "explain": "유효기간 2018.12.31.까지"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 겨울 패키지(객실조식, 객실디너, 객실조식디너)",
+    "sale": "이용할인",
+    "number": "02-3705-9115",
+    "site": "",
+    "explain": "패키지 가격"
+  },
+  {
+    "location": "경남",
+    "facility": "거제 삼성호텔",
+    "sale": "이용할인",
+    "number": "055-631-2114",
+    "site": "",
+    "explain": "53~62%"
+  },
+  {
+    "location": "경남",
+    "facility": "거제 씨월드",
+    "sale": "이용할인",
+    "number": "055-682-0330",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "10~25%"
+  },
+  {
+    "location": "경기,전남,제주",
+    "facility": "한화 아쿠아플라넷",
+    "sale": "티켓할인",
+    "number": "1661-1063",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "22~45%"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 스노파크",
+    "sale": "티켓할인",
+    "number": "02-2225-6375",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "66%"
+  },
+  {
+    "location": "전국",
+    "facility": "롯데시네마",
+    "sale": "요금할인",
+    "number": "02-748-6625",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "33%"
+  },
+  {
+    "location": "경남",
+    "facility": "진주 라온스테이 호텔",
+    "sale": "객실할인",
+    "number": "055-760-9000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "52~61%"
+  },
+  {
+    "location": "부산",
+    "facility": "SEA LIFE 부산 아쿠아리움",
+    "sale": "이용할인",
+    "number": "051-740-1700",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "40%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 스키시즌권 라스트(연장)",
+    "sale": "티켓할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~53%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 겨울 패키지(객실조식_롯데월드 자유이용권)",
+    "sale": "객실, 이용할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "패키지 가격"
+  },
+  {
+    "location": "강원",
+    "facility": "하이원리조트 객실",
+    "sale": "객실할인",
+    "number": "02-6196-4230",
+    "site": "http://www.high1.co.kr",
+    "explain": "10~81%"
+  },
+  {
+    "location": "경기",
+    "facility": "양지 파인리조트 객실",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": ""
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 스키시즌권 라스트",
+    "sale": "티켓할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~53%"
+  },
+  {
+    "location": "강원",
+    "facility": "아이파크콘도 1~2월",
+    "sale": "객실할인",
+    "number": "02-2016-4533",
+    "site": "www.i-parkconda.co.kr",
+    "explain": "65~84%"
+  },
+  {
+    "location": "부산",
+    "facility": "SEA LIFE 부산 아쿠아리움 (이순신 할인프로모션)",
+    "sale": "이용할인",
+    "number": "051-740-1700",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "40%"
+  },
+  {
+    "location": "서울",
+    "facility": "N서울타워 제휴",
+    "sale": "이용할인",
+    "number": "02-3445-9221",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~40%"
+  },
+  {
+    "location": "서울",
+    "facility": "코리아나호텔",
+    "sale": "객실할인",
+    "number": "02-2171-7842",
+    "site": "http://www.koreanahotel.com",
+    "explain": "74~77%(자동연장)"
+  },
+  {
+    "location": "서울",
+    "facility": "신라스테이(서대문/마포)",
+    "sale": "객실할인",
+    "number": "02-2230-0700",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "64~70%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 피크아일랜드(6월)",
+    "sale": "티켓할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 객실할인(6월)",
+    "sale": "객실할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "62%~75%"
+  },
+  {
+    "location": "충남",
+    "facility": "파라다이스 도고 스파",
+    "sale": "이용할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "52%~68%"
+  },
+  {
+    "location": "부산",
+    "facility": "SEA LIFE 부산 아쿠아리움 (DEEP SEA네마월드 할인)",
+    "sale": "이용할인",
+    "number": "051-740-1700",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "60%"
+  },
+  {
+    "location": "충남",
+    "facility": "아산스파비스",
+    "sale": "입장권 할인",
+    "number": "041-539-2000",
+    "site": "https://www.spavis.co.kr",
+    "explain": "유효기간 2019.06.30.까지"
+  },
+  {
+    "location": "강원",
+    "facility": "아이파크콘도",
+    "sale": "이용할인",
+    "number": "02-558-4373",
+    "site": "www.i-parkconda.co.kr",
+    "explain": "평균25%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 6~7월 객실할인",
+    "sale": "객실할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "패키지 가격(48~55%)"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 은하수 레스토랑 할인",
+    "sale": "이용할인",
+    "number": "02-3705-9141",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "평균25%"
+  },
+  {
+    "location": "부산",
+    "facility": "부산 아쿠아리움 (호국보훈의달 기념)",
+    "sale": "이용할인",
+    "number": "051-740-1700",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "본인정가결제시, 1인 무료"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 실내테마파크(워터/스노파크)",
+    "sale": "이용할인",
+    "number": "031-961-6306",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "66%"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 실내테마파크(워터/스노파크), 현역장병대상",
+    "sale": "이용할인",
+    "number": "031-961-6306",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "66%"
+  },
+  {
+    "location": "서울",
+    "facility": "코엑스 아쿠아리움",
+    "sale": "이용할인",
+    "number": "02-700-7303",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "36.3% ~ 50%"
+  },
+  {
+    "location": "서울",
+    "facility": "롯데호텔월드 중식당 도림 프로모션",
+    "sale": "이용할인",
+    "number": "02-411-7800",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "-"
+  },
+  {
+    "location": "서울",
+    "facility": "롯데호텔월드 히어로즈패키지",
+    "sale": "객실할인",
+    "number": "02-411-7777",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "-"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 7~8월 하계 객실 프로모션",
+    "sale": "객실할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59%~65.1%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 코코몽 수영장 상품 프로모션",
+    "sale": "이용할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "강원(평창)",
+    "facility": "알펜시아리조트 객실할인",
+    "sale": "객실할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "19.7%~77%"
+  },
+  {
+    "location": "제주(서귀포)",
+    "facility": "제주 윈스카이호텔",
+    "sale": "객실할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59.3%~66.9%"
+  },
+  {
+    "location": "인천(영종도)",
+    "facility": "네스트호텔",
+    "sale": "객실할인",
+    "number": "032-743-9000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "26.8%~66.6%"
+  },
+  {
+    "location": "제주(서귀포)",
+    "facility": "세리월드",
+    "sale": "이용할인",
+    "number": "064-739-8254",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "52%~68%"
+  },
+  {
+    "location": "서울",
+    "facility": "롯데월드 언더씨킹덤",
+    "sale": "이용할인",
+    "number": "02-6916-2000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25%~52%"
+  },
+  {
+    "location": "경기",
+    "facility": "라마다 평택앙코르",
+    "sale": "객실할인",
+    "number": "031-229-3600",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "55%~62.5%"
+  },
+  {
+    "location": "강원(고성)",
+    "facility": "레이크오션 리조트",
+    "sale": "객실할인",
+    "number": "02-404-2241",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "29.6%~49.4%"
+  },
+  {
+    "location": "강원(평창)",
+    "facility": "알펜시아리조트 오션700 워터파크 할인",
+    "sale": "이용할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "43~60%"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 여름특판 (워터파크 등)",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65~66%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 7~8월 객실제휴 할인",
+    "sale": "객실할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25~70%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 피크아일랜드 제휴 할인",
+    "sale": "이용할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59~62%"
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안 강촌 하계 객실 할인",
+    "sale": "객실할인",
+    "number": "070-4788-2100",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "27~52%"
+  },
+  {
+    "location": "강원",
+    "facility": "해피아워크루즈 유람선",
+    "sale": "이용할인",
+    "number": "1899-3393",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "20~23%"
+  },
+  {
+    "location": "경기",
+    "facility": "호텔 더숨 포레스트",
+    "sale": "이용할인",
+    "number": "1522-2777",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "40.7~66.4%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 여름 패키지",
+    "sale": "이용할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "패키지 가격"
+  },
+  {
+    "location": "충남",
+    "facility": "아산 스파비스 (야간개장)",
+    "sale": "이용할인",
+    "number": "041-539-2000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "특판이용권 17,000원"
+  },
+  {
+    "location": "경남",
+    "facility": "라마다 거제스위츠 호텔",
+    "sale": "객실할인",
+    "number": "055-638-4750",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "26~48% (자동연장)"
+  },
+  {
+    "location": "경남",
+    "facility": "거제 아쿠아리스리조트",
+    "sale": "객실할인",
+    "number": "055-638-6050",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "21~50% (자동연장)"
+  },
+  {
+    "location": "경기",
+    "facility": "엘리시안 강촌 추계객실상품",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "-"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 추계객실상품",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "-"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 시즌오프 프로모션",
+    "sale": "이용할인",
+    "number": "031-961-6306",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65~80%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 시즌권",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "41~57%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 추계객실상품 프로모션",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "49~74%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 피크아일랜드 제휴 할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "51~55%"
+  },
+  {
+    "location": "강원",
+    "facility": "보광휘닉스파크 시즌권 1차",
+    "sale": "이용할인",
+    "number": "02-2031-1438",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "-"
+  },
+  {
+    "location": "강원",
+    "facility": "웰리힐리 스키시즌권",
+    "sale": "이용할인",
+    "number": "02-3467-0234",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "12%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 추계 객실 패키지 프로모션",
+    "sale": "객실할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "패키지 가격"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 한가위 프로모션",
+    "sale": "이용할인",
+    "number": "02-2205-6375",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "66%"
+  },
+  {
+    "location": "강원",
+    "facility": "하이원 국군의날 객실 프로모션",
+    "sale": "객실할인",
+    "number": "02-2205-6375",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "72~87%"
+  },
+  {
+    "location": "경남",
+    "facility": "거제 아쿠아리우스리조트 특가프로모션",
+    "sale": "객실할인",
+    "number": "055-682-6050",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "26.3~37%"
+  },
+  {
+    "location": "경남",
+    "facility": "라마다 거제스위츠 호텔 특가프로모션",
+    "sale": "객실할인",
+    "number": "055-638-4750",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "37.6~54.1%"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 스노파크/워터파크 프로모션(씨엘스포츠)",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "60~80%"
+  },
+  {
+    "location": "충남",
+    "facility": "아산스파비스 국군의날기념 프로모션",
+    "sale": "이용할인",
+    "number": "041-539-2000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "특판이용권 10,000원"
+  },
+  {
+    "location": "제주",
+    "facility": "제주 다인 오세아노 호텔 앤 리조트",
+    "sale": "객실할인",
+    "number": "02-809-2600",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "64.4~73.9%"
+  },
+  {
+    "location": "전북",
+    "facility": "라마다 군산호텔",
+    "sale": "객실할인",
+    "number": "063-441-8000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "56.6~63.6%"
+  },
+  {
+    "location": "경남",
+    "facility": "라마다 거제 아쿠아리스리조트 및 호텔 연박특가",
+    "sale": "객실할인",
+    "number": "055-682-6050",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "주중 30% 할인"
+  },
+  {
+    "location": "전국",
+    "facility": "CGV 영화할인",
+    "sale": "이용할인",
+    "number": "900-6625",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "40~50%(콤보) 영화(콤보)할인"
+  },
+  {
+    "location": "전국",
+    "facility": "빕스 외식할인",
+    "sale": "이용할인",
+    "number": "900-6625",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "군인 25%할인"
+  },
+  {
+    "location": "경기",
+    "facility": "에버랜드 자유이용권 할인(휴가장병)",
+    "sale": "이용할인",
+    "number": "900-6625",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "무료"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 스키시즌권",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "-"
+  },
+  {
+    "location": "서울,대전",
+    "facility": "롯데씨티호텔(구로/마포/대전점)",
+    "sale": "객실할인",
+    "number": "02-771-1004",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "55~70%"
+  },
+  {
+    "location": "전국",
+    "facility": "메가박스 영화할인",
+    "sale": "이용할인",
+    "number": "02-748-6625",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "14~50%"
+  },
+  {
+    "location": "경북",
+    "facility": "코오롱호텔(경주)",
+    "sale": "객실할인",
+    "number": "1600-8668",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50~70.8%"
+  },
+  {
+    "location": "경북",
+    "facility": "마우나오션리조트(경주)",
+    "sale": "객실할인",
+    "number": "1600-8668",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~50.8%"
+  },
+  {
+    "location": "경남(부산)",
+    "facility": "코오롱씨클라우드호텔(해운대)",
+    "sale": "객실할인",
+    "number": "051-933-1000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50~74.8%"
+  },
+  {
+    "location": "충남",
+    "facility": "파라다이스 도고 스파",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "52%"
+  },
+  {
+    "location": "전북",
+    "facility": "무주리조트 스키시즌권",
+    "sale": "이용할인",
+    "number": "063-320-7787",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30, 50%"
+  },
+  {
+    "location": "경남",
+    "facility": "라마다 거제 스위츠 호텔  연추특가",
+    "sale": "이용할인",
+    "number": "055-638-4750",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50~63.2%"
+  },
+  {
+    "location": "서울",
+    "facility": "N서울타워 제휴 패키지",
+    "sale": "이용할인",
+    "number": "02-3455-9210",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "29.4~48%"
+  },
+  {
+    "location": "경기",
+    "facility": "과천 서울랜드 자유이용권",
+    "sale": "이용할인",
+    "number": "02-509-6214",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65.90%"
+  },
+  {
+    "location": "전국",
+    "facility": "롯데렌터카",
+    "sale": "이용할인",
+    "number": "1588-1230",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25~75%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 발왕산 관광케이블카 왕복권",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "63%"
+  },
+  {
+    "location": "인천",
+    "facility": "네스트호텔 동계 프로모션",
+    "sale": "이용할인",
+    "number": "032-743-9000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "기존할인요금에  6~18%"
+  },
+  {
+    "location": "경남",
+    "facility": "거제 씨앤스카이리조트",
+    "sale": "객실할인",
+    "number": "055-682-0102",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "10~57%"
+  },
+  {
+    "location": "강원",
+    "facility": "강릉 메이플비치 리조트",
+    "sale": "객실할인",
+    "number": "033-650-0023",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "40%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 스키시즌권 (2차)",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "34~50%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운 동계객실 상품",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "66~74%"
+  },
+  {
+    "location": "경기",
+    "facility": "호텔 더숨 포레스트 동절기 프로모션",
+    "sale": "객실할인",
+    "number": "1522-2777",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "10% 추가할인"
+  },
+  {
+    "location": "강원",
+    "facility": "알펜시아리조트 오션700 워터파크 할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "종일권 47%"
+  },
+  {
+    "location": "강원",
+    "facility": "알펜시아리조트 동계 객실할인",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "13~81%"
+  },
+  {
+    "location": "충남",
+    "facility": "아산스파비스 겨울 온천워터파크 할인",
+    "sale": "이용할인",
+    "number": "02-2205-6375",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "61.30%"
+  },
+  {
+    "location": "서울",
+    "facility": "코엑스 아쿠아리움 겨울특판",
+    "sale": "이용할인",
+    "number": "02-700-7305",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "46.40%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 (스키장비 렌탈)",
+    "sale": "대여할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 동계 객실상품 (룸온니, 조식패키지)",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "36~73%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 (리프트권)",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 코코몽 눈썰매장",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "제주",
+    "facility": "제주다인오세아노 호텔 앤 리조트 동계 프로모션",
+    "sale": "객실할인",
+    "number": "02-809-2600",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "정상가대비70~80%, 인터넷 최저가대비 16~24%"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 워터파크/스노우파크",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "60~80%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 피크아일랜드 동계 할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "41~53%"
+  },
+  {
+    "location": "경기",
+    "facility": "용평리조트 리프트권",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "30~44%"
+  },
+  {
+    "location": "경기",
+    "facility": "과천 어메이징파크 자유이용",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "43%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 스키시즌권",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "34~50%"
+  },
+  {
+    "location": "서울",
+    "facility": "세종호텔 윈터패키지 프로모션",
+    "sale": "이용할인",
+    "number": "02-3705-9115",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25.5~58.3%"
+  },
+  {
+    "location": "서울",
+    "facility": "네스트호텔 연중 객실제휴",
+    "sale": "객실할인",
+    "number": "032-743-9000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "19.5~71.2%"
+  },
+  {
+    "location": "서울",
+    "facility": "코리아나호텔 객실제휴",
+    "sale": "객실할인",
+    "number": "02-217-1791",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "63.1~74.2%"
+  },
+  {
+    "location": "제주",
+    "facility": "제주다인오세아노 호텔 앤 리조트 객실제휴(봄프로모션 포함)",
+    "sale": "객실할인",
+    "number": "02-809-2600",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "정상가대비70~80%, 인터넷 최저가대비 16~24%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 봄 객실제휴",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "58~65%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 골프연습장 제휴할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "강원",
+    "facility": "알펜시아리조트 봄 객실제휴",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "76~79%"
+  },
+  {
+    "location": "서울",
+    "facility": "신라스테이(서대문/마포) 객실제휴",
+    "sale": "객실할인",
+    "number": "02-2230-0700",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "62~72%"
+  },
+  {
+    "location": "강원",
+    "facility": "하이원리조트 객실제휴",
+    "sale": "객실할인",
+    "number": "02-6196-4230",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "7~81%"
+  },
+  {
+    "location": "경기",
+    "facility": "서울랜드 전반기 패키지 상품 이용할인",
+    "sale": "이용할인",
+    "number": "02-509-6214",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65.90%"
+  },
+  {
+    "location": "경기",
+    "facility": "서울랜드 패키지 상품 이용할인(공룡특별전)",
+    "sale": "이용할인",
+    "number": "02-509-6214",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "65.90%"
+  },
+  {
+    "location": "제주",
+    "facility": "제주다인오세아노 호텔 앤 리조트 객실제휴(가정의달 프로모션)",
+    "sale": "객실할인",
+    "number": "02-809-2600",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "정상가대비70~80%, 인터넷 최저가대비 16~24%"
+  },
+  {
+    "location": "충남",
+    "facility": "아산스파비스 4월 할인 프로모션",
+    "sale": "이용할인",
+    "number": "041-539-2000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "정상가대비 약 27% 할인적용"
+  },
+  {
+    "location": "서울,대전",
+    "facility": "롯데씨티호텔(구로/마포/대전점) 객실 패키지(봄 프로모션)",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59~67%"
+  },
+  {
+    "location": "경기",
+    "facility": "양지파인리조트 룸온니 객실할인",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "60~78%"
+  },
+  {
+    "location": "경기",
+    "facility": "포천 어메이징파크 자유이용권 할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25%~52%"
+  },
+  {
+    "location": "강원",
+    "facility": "평창 알펜시아리조트 객실할인",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59~72%"
+  },
+  {
+    "location": "강원",
+    "facility": "평창 알펜시아리조트 오션700 이용할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "47~49%"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 스노/워터파크 이용할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "61~68%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 룸온니 객실할인",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "37~71%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 피크아일랜드 이용할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "51~59%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 발왕산 관광케이블카 왕복권",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "51%"
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안강촌 봄(5~6월) 객실 할인",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "56~65%"
+  },
+  {
+    "location": "경기",
+    "facility": "라마다 용인호텔 객실할인",
+    "sale": "객실할인",
+    "number": "02-3486-3652",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "32~82%"
+  },
+  {
+    "location": "서울",
+    "facility": "롯데호텔(소공동) 객실할인",
+    "sale": "객실할인",
+    "number": "02-759-7311",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "48~60%"
+  },
+  {
+    "location": "서울",
+    "facility": "켄싱턴호텔 여의도 객실할인",
+    "sale": "객실할인",
+    "number": "1670-7461",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59~78%"
+  },
+  {
+    "location": "강원",
+    "facility": "켄싱턴호텔 평창 객실할인",
+    "sale": "객실할인",
+    "number": "1670-7462",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "71.5~85.2%"
+  },
+  {
+    "location": "강원",
+    "facility": "켄싱턴호텔 설악 객실할인",
+    "sale": "객실할인",
+    "number": "1670-7463",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "59~74.2%"
+  },
+  {
+    "location": "서울",
+    "facility": "롯데월드 언더씨킹덤 이용할인",
+    "sale": "이용할인",
+    "number": "02-6916-2000",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25%~52%"
+  },
+  {
+    "location": "서울",
+    "facility": "롯데호텔(호국보훈의 달 프로모션)",
+    "sale": "이용할인",
+    "number": "02-759-7311",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "패키지 상품임"
+  },
+  {
+    "location": "경남",
+    "facility": "SEA LIFE 부산 아쿠아리움",
+    "sale": "이용할인",
+    "number": "051-740-1700",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50%"
+  },
+  {
+    "location": "경북",
+    "facility": "라마다 문경새재 호텔",
+    "sale": "객실할인",
+    "number": "054-504-7077",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "62~77%"
+  },
+  {
+    "location": "서울",
+    "facility": "코엑스아쿠아리움 여름특판",
+    "sale": "이용할인",
+    "number": "02-6002-6214",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "47%"
+  },
+  {
+    "location": "서울",
+    "facility": "켄싱턴여의도 썸머풀 패키지 프로모션",
+    "sale": "객실할인",
+    "number": "1670-7461",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "패키지 상품임"
+  },
+  {
+    "location": "강원",
+    "facility": "엘리시안 강촌 하계 객실할인(패키지)",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "31~57%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 하계 객실할인",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "27~70%"
+  },
+  {
+    "location": "경기",
+    "facility": "원마운트 하계 이용할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "66~80%"
+  },
+  {
+    "location": "서울",
+    "facility": "켄싱턴 여의도 이그제큐티브 객실 패키지 여름 프로모션",
+    "sale": "객실할인",
+    "number": "1670-7461",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "58.6~73.9%"
+  },
+  {
+    "location": "강원",
+    "facility": "켄싱턴 설악 객실 패키지 여름 프로모션",
+    "sale": "객실할인",
+    "number": "1670-7463",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25.5~71.5%"
+  },
+  {
+    "location": "강원",
+    "facility": "켄싱턴 평창 객실 패키지 여름 프로모션",
+    "sale": "객실할인",
+    "number": "1670-7462",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "62.7~85.6%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 루지/마운틴코스터 이용 할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25~42%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 발왕산 관광케이블카 왕복권",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "51%"
+  },
+  {
+    "location": "강원",
+    "facility": "용평리조트 피크아일랜드 이용할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "63~68%"
+  },
+  {
+    "location": "충남",
+    "facility": "파라다이스 도고 스파 이용할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "57%"
+  },
+  {
+    "location": "경기",
+    "facility": "어메이징파크 자유이용권",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "25%"
+  },
+  {
+    "location": "경기",
+    "facility": "베어스타운리조트 하계 객실할인",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "22~64%"
+  },
+  {
+    "location": "인천",
+    "facility": "영종도 스카이리조트 하계 객실할인",
+    "sale": "객실할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "50~63%"
+  },
+  {
+    "location": "인천",
+    "facility": "영종도 스카이리조트 워터파크 이용할인",
+    "sale": "이용할인",
+    "number": "02-456-2014",
+    "site": "https://www.welfare.mil.kr",
+    "explain": "41~54%"
+  }
+]
