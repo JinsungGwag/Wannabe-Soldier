@@ -26,6 +26,7 @@ public class DataMananger : MonoBehaviour
 
     public List<Mission> missionList = new List<Mission>();
     public List<SaleEvent> saleList = new List<SaleEvent>();
+    public List<Welfare> welfareList = new List<Welfare>();
 
     void Start()
     {
@@ -34,6 +35,7 @@ public class DataMananger : MonoBehaviour
         LoadMission();
         LoadInformation();
         LoadSale();
+        LoadWelfare();
     }
 
     // 사용자 정보 불러오기
@@ -55,6 +57,14 @@ public class DataMananger : MonoBehaviour
         TextAsset textAsset = Resources.Load("sale") as TextAsset;
         string dataJson = Encoding.UTF8.GetString(textAsset.bytes);
         saleList = JsonConvert.DeserializeObject<List<SaleEvent>>(dataJson);
+    }
+
+    // 복지 정보 불러오기
+    public void LoadWelfare()
+    {
+        TextAsset textAsset = Resources.Load("welfare") as TextAsset;
+        string dataJson = Encoding.UTF8.GetString(textAsset.bytes);
+        welfareList = JsonConvert.DeserializeObject<List<Welfare>>(dataJson);
     }
 
     public void SetInformation(string name, string rank, int inYear, int inMonth, int inDay, int outYear, int outMonth, int outDay)

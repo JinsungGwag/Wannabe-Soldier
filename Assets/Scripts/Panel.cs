@@ -15,7 +15,7 @@ public class Panel : MonoBehaviour
     {
         gameObject.SetActive(true);
     }
-
+    
     public void Close()
     {
         gameObject.SetActive(false);
