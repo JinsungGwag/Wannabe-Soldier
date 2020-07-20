@@ -27,25 +27,31 @@ public class DataMananger : MonoBehaviour
     public List<Mission> missionList = new List<Mission>();
     public List<SaleEvent> saleList = new List<SaleEvent>();
     public List<Welfare> welfareList = new List<Welfare>();
+    public List<Supply> supplyList = new List<Supply>();
+    public List<PX> pxList = new List<PX>();
+    public List<TMO> tmoList = new List<TMO>();
 
     void Start()
     {
-        informationPath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Information" : Application.streamingAssetsPath + "/Information";
-        missionPath = Application.platform == RuntimePlatform.Android ? Application.persistentDataPath + "/Mission" : Application.streamingAssetsPath + "/Mission";
+        informationPath = Path.Combine(Application.persistentDataPath, "Information");
+        missionPath = Path.Combine(Application.persistentDataPath, "Mission");
         LoadMission();
         LoadInformation();
         LoadSale();
         LoadWelfare();
+        LoadSupply();
+        LoadPX();
+        LoadTMO();
     }
 
     // 사용자 정보 불러오기
     public bool LoadInformation()
     {
         if (!Directory.Exists(informationPath)) return false;
-        if (!File.Exists(informationPath + "/UserInformation.json")) return false;
+        if (!File.Exists(Path.Combine(informationPath, "UserInformation.json"))) return false;
 
         // 저장된 정보가 있을 경우 불러옴
-        string dataJson = File.ReadAllText(informationPath + "/UserInformation.json", Encoding.Unicode);
+        string dataJson = File.ReadAllText(Path.Combine(informationPath, "UserInformation.json"), Encoding.UTF8);
         userInfo = JsonConvert.DeserializeObject<Information>(dataJson);
         
         return true;
@@ -67,6 +73,30 @@ public class DataMananger : MonoBehaviour
         welfareList = JsonConvert.DeserializeObject<List<Welfare>>(dataJson);
     }
 
+    // 보급 정보 불러오기
+    public void LoadSupply()
+    {
+        TextAsset textAsset = Resources.Load("supply") as TextAsset;
+        string dataJson = Encoding.UTF8.GetString(textAsset.bytes);
+        supplyList = JsonConvert.DeserializeObject<List<Supply>>(dataJson);
+    }
+
+    // PX 정보 불러오기
+    public void LoadPX()
+    {
+        TextAsset textAsset = Resources.Load("PX") as TextAsset;
+        string dataJson = Encoding.UTF8.GetString(textAsset.bytes);
+        pxList = JsonConvert.DeserializeObject<List<PX>>(dataJson);
+    }
+
+    // TMO 정보 불러오기
+    public void LoadTMO()
+    {
+        TextAsset textAsset = Resources.Load("TMO") as TextAsset;
+        string dataJson = Encoding.UTF8.GetString(textAsset.bytes);
+        tmoList = JsonConvert.DeserializeObject<List<TMO>>(dataJson);
+    }
+
     public void SetInformation(string name, string rank, int inYear, int inMonth, int inDay, int outYear, int outMonth, int outDay)
     {
         userInfo = new Information(name, rank, inYear, inMonth, inDay, outYear, outMonth, outDay);
@@ -79,7 +109,7 @@ public class DataMananger : MonoBehaviour
         string dataJson = JsonConvert.SerializeObject(userInfo);
         if (!Directory.Exists(informationPath))
             Directory.CreateDirectory(informationPath);
-        File.WriteAllText(informationPath + "/UserInformation.json", dataJson, Encoding.Unicode);
+        File.WriteAllText(Path.Combine(informationPath, "UserInformation.json"), dataJson, Encoding.UTF8);
     }
 
     // 삭제할 업적 이름 기억
@@ -90,11 +120,21 @@ public class DataMananger : MonoBehaviour
 
     public void LoadMission()
     {
-        if (!Directory.Exists(missionPath)) return;
-        if (!File.Exists(missionPath + "/UserMission.json")) return;
-
+        if (!Directory.Exists(missionPath))
+        {
+            Directory.CreateDirectory(missionPath);
+            missionList.Add(new Mission("운동", "3KM 12분 30초(특)", 60, false));
+            missionList.Add(new Mission("운동", "팔굽혀펴기 72개(특)", 60, false));
+            missionList.Add(new Mission("운동", "윗몸일으키기 86개(특)", 60, false));
+            missionList.Add(new Mission("휴가", "국가공인 자격증 따기", 50, false));
+            missionList.Add(new Mission("휴가", "특급전사 달성하기", 70, false));
+            missionList.Add(new Mission("휴가", "독립기념관 다녀오기", 40, false));
+            missionList.Add(new Mission("공부", "토익 700점 이상 달성", 50, false));
+            SaveMission();
+        }
+        
         // 저장된 업적이 있을 경우 불러옴
-        string dataJson = File.ReadAllText(missionPath + "/UserMission.json", Encoding.Unicode);
+        string dataJson = File.ReadAllText(Path.Combine(missionPath, "UserMission.json"), Encoding.UTF8);
         missionList = JsonConvert.DeserializeObject<List<Mission>>(dataJson);
     }
 
@@ -151,9 +191,7 @@ public class DataMananger : MonoBehaviour
     public void SaveMission()
     {
         string dataJson = JsonConvert.SerializeObject(missionList);
-        if (!Directory.Exists(missionPath))
-            Directory.CreateDirectory(missionPath);
-        File.WriteAllText(missionPath + "/UserMission.json", dataJson, Encoding.Unicode);
+        File.WriteAllText(Path.Combine(missionPath, "UserMission.json"), dataJson, Encoding.UTF8);
         missionManager.ChangeList();
     }
 }

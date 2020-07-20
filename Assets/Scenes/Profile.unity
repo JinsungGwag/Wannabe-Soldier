@@ -3664,6 +3664,11 @@ MonoBehaviour:
   removePanel: {fileID: 0}
   addPanel: {fileID: 0}
   missionManager: {fileID: 0}
+  saleList: []
+  welfareList: []
+  supplyList: []
+  pxList: []
+  tmoList: []
 --- !u!1 &944760617
 GameObject:
   m_ObjectHideFlags: 0
